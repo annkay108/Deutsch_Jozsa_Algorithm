@@ -1,2 +1,2 @@
-# Deutsch Jozsa Algorithm
+# Simple Implementation of Deutsch Jozsa Algorithm
 
